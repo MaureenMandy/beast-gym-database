@@ -1,0 +1,2 @@
+This .gitkeep file ensures the sql/ folder exists in the repository. 
+All SQL scripts (CREATE TABLE, INSERT, QUERIES) will be uploaded here.
