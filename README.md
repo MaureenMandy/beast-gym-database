@@ -1,6 +1,6 @@
-Beast Gym Management Database
+                                                                                       Beast Gym Management Database
 
-Project Overview
+Project Overview:
 A PostgreSQL relational database designed to manage gym operations, including memberships, trainers, classes, bookings, payments, and payroll.
 It demonstrates database design, SQL queries, and analytics applied in a real-world fitness center.
 
@@ -11,7 +11,7 @@ Handle payments and payroll
 Generate analytics and insights
 This project showcases database design, SQL skills, and business analytics in a practical scenario.
 
-Project Structure
+Project Structure:
 Beast-Gym-Database/
 │
 ├─ data/           # Excel sheets of raw table data
@@ -20,8 +20,7 @@ Beast-Gym-Database/
 ├─ screenshots/    # pgAdmin screenshots
 └─ README.md       # Project explanation
 
-Database Tables
-
+Database Tables:
 | Table Name           | Description |
 |---------------------|-------------|
 | Members             | Gym member details |
@@ -33,5 +32,5 @@ Database Tables
 | Booking             | Member bookings for classes or trainers |
 | Payment             | Records of payments |
 
-Future Scope
+Future Scope:
 Integration with a frontend gym management system, advanced dashboards (Power BI/Tableau), and automated payment reminders and notifications.
